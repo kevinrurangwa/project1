@@ -1,0 +1,21 @@
+:root{
+    --clr-dark:#020617;
+    --hd-color: white;
+    --p-color:#94a3b8;
+    --link-color:red;
+   
+
+}
+
+body{
+    background-color:#020617;
+}
+.title{
+    color:var(--hd-color);
+}
+.desc{
+    color:var(--p-color);
+}
+.link{
+    color:var(--link-color);
+}
